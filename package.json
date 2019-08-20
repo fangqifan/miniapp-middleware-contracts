@@ -1,6 +1,6 @@
 {
   "name": "miniapp-middleware-contracts",
-  "version": "0.1.1",
+  "version": "0.2.0",
   "description": "middleware contracts of miniapp middleware.",
   "main": "dist/index.js",
   "scripts": {
@@ -23,6 +23,7 @@
   ],
   "author": "fangqifan",
   "license": "MIT",
+  "miniprogram": "dist",
   "repository": {
     "type": "git",
     "url": "git@github.com:fangqifan/miniapp-middleware-contracts.git"
